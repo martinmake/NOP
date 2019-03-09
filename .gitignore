@@ -34,4 +34,9 @@
 *.bin
 *.hex
 
+# Code traversal
+tags
+cscope
+.ycm_extra_conf.py
+
 # Other
